@@ -24,5 +24,5 @@ Limitation: Do you to the nature of the aifnmient and limited time , the project
 
 Methdology: 
 
-Linear regression analysis model will be used to study the relationship between predictor and predicatant variables 
+Linear regression analysis model  is used to study the relationship between predictor and predicatant variables 
  
